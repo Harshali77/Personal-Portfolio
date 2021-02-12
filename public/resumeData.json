@@ -14,7 +14,7 @@
       "state":"Maharashtra",
       "zip": "411057"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "https://harshali-bhamare.herokuapp.com/",
     "resumedownload":"https://drive.google.com/file/d/18D6N7ASTieK7yQhm6zJqlbpgtx7x_4M1/view?usp=sharing",
     "social":[
       {"name":"facebook",
@@ -138,6 +138,12 @@
         "category":"by Google",
         "image":"cert3.jpg",
         "url":"https://drive.google.com/file/d/1bzXIxajISQss_b5faxjIcRuwpkFJTBrD/view?usp=sharing"
+      },
+      {
+        "title":"SAS Programming 1",
+        "category":"by SAS",
+        "image":"cert6.PNG",
+        "url":"https://www.youracclaim.com/badges/a28ceb61-66d5-45d5-b517-bd566c6386ca/linked_in_profile"
       }
     ]
   },

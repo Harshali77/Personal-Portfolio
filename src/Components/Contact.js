@@ -80,7 +80,7 @@ class Contact extends Component {
 
 					   <h4>Address and Phone</h4>
 					   <p className="address">
-						   {email}<br />
+						  <a class="mailto" href="mailto:harshalibhamare75@gmail.com">harshalibhamare75@gmail.com</a><br />
 						   {street} <br />
 						   {city}, {state} {zip}<br />
 						   <span>{phone}</span>
